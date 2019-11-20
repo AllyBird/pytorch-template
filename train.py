@@ -9,6 +9,7 @@ import model.model as module_arch
 from parse_config import ConfigParser
 from trainer import Trainer
 
+# This is a test
 
 # fix random seeds for reproducibility
 SEED = 123
